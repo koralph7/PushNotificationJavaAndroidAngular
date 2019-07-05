@@ -1,0 +1,4 @@
+com\pola\ApplicationController.class
+com\pola\PrzyszzApplication.class
+com\pola\NotifiService.class
+com\pola\RequestInterceptor.class
